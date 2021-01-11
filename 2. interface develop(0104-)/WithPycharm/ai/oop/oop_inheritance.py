@@ -238,10 +238,16 @@ class FundAccount(Account):
 
 class SavingAccount(Account):
     def __init__(self, account, balance, interestRate, type):
-        super().__init__(self, account, balance, interestRate)
+        super().__init__(account, balance, interestRate)
         self.type = type
-    def printInterestRate(self):
-        if 
+    def printInterestRate(self, months):
+        self.months = months
+        self.balance = self.balance * ((1 + interestRate)^months)
+        # if months is enough:
+        #
+        # if months is not enough:
+        #     print(self.balance)
+
 
 
 

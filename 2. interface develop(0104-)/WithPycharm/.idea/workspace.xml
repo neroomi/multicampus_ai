@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StartWPycharm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/oop/oop_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai/oop/oop_inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/_distutils_hack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/_distutils_hack/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/_distutils_hack/override.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/_distutils_hack/override.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/distutils-precedence.pth" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/distutils-precedence.pth" afterDir="false" />
@@ -668,10 +669,12 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../.." value="master" />
+        <entry key="$PROJECT_DIR$/../.." value="itsnew" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -860,10 +863,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.oopExerCaller" />
-        <item itemvalue="Python.inheritanceCaller (1)" />
         <item itemvalue="Python.oop_inheritance (1)" />
-        <item itemvalue="Python.inheritanceCaller" />
         <item itemvalue="Python.oop_inheritance" />
+        <item itemvalue="Python.inheritanceCaller (1)" />
+        <item itemvalue="Python.inheritanceCaller" />
       </list>
     </recent_temporary>
   </component>
@@ -879,7 +882,7 @@
       <workItem from="1609992508716" duration="11325000" />
       <workItem from="1610063823969" duration="21102000" />
       <workItem from="1610174778312" duration="1848000" />
-      <workItem from="1610323048124" duration="23115000" />
+      <workItem from="1610323048124" duration="25961000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1609984823749</created>
@@ -990,7 +993,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="newbie" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -1008,12 +1011,12 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
-                  <option value="newbie" />
+                  <option value="origin/master" />
                 </option>
               </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
-                  <option value="origin/master" />
+                  <option value="newbie" />
                 </option>
               </RecentGroup>
             </list>
