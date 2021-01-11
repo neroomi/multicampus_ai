@@ -50,3 +50,5 @@ for unit in troopAttackList:
     if isinstance(unit, Marine):
         unit.stimpack()
     unit.attack()
+
+
